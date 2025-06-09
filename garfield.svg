@@ -1,4 +1,4 @@
-<svg width="1000" height="1000" color = "black" xmlns="http://www.w3.org/2000/svg" >
+<svg width="1500" height="1000" color = "black" xmlns="http://www.w3.org/2000/svg" >
 
   <!-- Orelha Esquerda -->
   <rect width="80" height="120" x="410" y="200" rx="120" ry="500" fill="orange " style="fill:orange;stroke:orange;stroke-width:3" />
@@ -35,24 +35,34 @@
 
   <!-- Pescoço -->
   <ellipse rx="100" ry="60" cx="500" cy="440" style="fill:orange;stroke:orange;stroke-width:3" /> 
-
-  <ellipse rx="20" ry="25" cx="820" cy="320" fill = "#FFF69eff" stroke = "black" stroke-width = "3" />
-  <ellipse rx="20" ry="25" cx="625" cy="320" fill = "#FFF69eff" stroke = "black" stroke-width = "3" />
   <!--orelha-->
-  <rect width="30" height="150" x="730" y="-50" rx="250" ry="20" fill="brown" transform="rotate(20, 375, 135)" stroke = "black" stroke-width = "3"/>
-  <ellipse rx="40" ry="60" cx="790" cy="260" fill = "brown" stroke = "black" stroke-width = "3" transform="rotate(-25, 500, 150)" />
-  <rect width="30" height="150" x="630" y="95" rx="250" ry="20" fill="brown" transform="rotate(-20, 645, 25)" stroke = "black" stroke-width = "3"/>
-  <ellipse rx="40" ry="60" cx="620" cy="68" fill = "brown" stroke = "black" stroke-width = "3" transform="rotate(25, 500, 150)" />
-
-
-  <!-- ODDY CABECA-->
-  <ellipse rx="100" ry="73" cx="722" cy="355" fill = "#FFF69eff" stroke = "black" stroke-width = "3"  />
-  <ellipse rx="50" ry="80" cx="760" cy="270" fill = "white" stroke = "black" stroke-width = "3" />
-  <ellipse rx="50" ry="80" cx="685" cy="270" fill = "white" stroke = "black" stroke-width = "3" />
-  <ellipse rx="37" ry="25" cx="725" cy="348" fill = "black" stroke = "black" stroke-width = "3" />
-  <ellipse rx="22" ry="13" cx="725" cy="343" fill = "white" stroke = "black" stroke-width = "3" />
-  <ellipse rx="5" ry="10" cx="710" cy="300" fill = "black" stroke = "black" stroke-width = "3" />
-  <ellipse rx="5" ry="10" cx="750" cy="300" fill = "black" stroke = "black" stroke-width = "3" />
-
   
+  
+  <!-- ODDY CABECA-->
+
+  <!-- ORELHAS -->
+  <rect width="30" height="150" x="820" y="155" rx="250" ry="20" fill="brown" transform="rotate(-20, 645, 25)" stroke = "black" stroke-width = "3"/>
+  <rect width="30" height="150" x="915" y="-115" rx="250" ry="20" fill="brown" transform="rotate(20, 375, 135)" stroke = "black" stroke-width = "3"/>
+  <ellipse rx="40" ry="60" cx="972" cy="342" fill = "brown" stroke = "black" stroke-width = "3" transform="rotate(-25, 500, 150)" />
+  <ellipse rx="40" ry="60" cx="800" cy="-20" fill = "brown" stroke = "black" stroke-width = "3" transform="rotate(25, 500, 150)" />
+ 
+  <!-- CABECA -->
+  <ellipse rx="20" ry="25" cx="823" cy="320" fill = "#FFF69eff" stroke = "black" stroke-width = "3" />
+  <ellipse rx="20" ry="25" cx="1022" cy="320" fill = "#FFF69eff" stroke = "black" stroke-width = "3" />
+  <ellipse rx="100" ry="73" cx="922" cy="345" fill = "#FFF69eff" stroke = "black" stroke-width = "3"  />
+  
+  <!-- OLHOS -->
+  <ellipse rx="50" ry="80" cx="960" cy="270" fill = "white" stroke = "black" stroke-width = "3" />
+  <ellipse rx="50" ry="80" cx="885" cy="270" fill = "white" stroke = "black" stroke-width = "3" />
+  <ellipse rx="37" ry="25" cx="925" cy="348" fill = "black" stroke = "black" stroke-width = "3" />
+  <ellipse rx="5" ry="10" cx="910" cy="300" fill = "black" stroke = "black" stroke-width = "3" />
+  
+  <!-- NARIZ -->
+  <ellipse rx="5" ry="10" cx="950" cy="300" fill = "black" stroke = "black" stroke-width = "3" />
+  <ellipse rx="22" ry="13" cx="925" cy="343" fill = "white" stroke = "black" stroke-width = "3" />
+
+  <!-- LINGUA -->
+  <ellipse rx="100" ry="80" cx="800" cy="500" fill = "#FA203DFF" />
+  <ellipse rx="100" ry="70" cx="850" cy="560" fill = "white" />
+  <rect width="100" height="120" x="720" y="454" rx="50" ry="53" fill="#FA203DFF "/>
 </svg>
