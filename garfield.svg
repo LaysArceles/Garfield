@@ -1,43 +1,6 @@
 <svg width="1500" height="1500" color = "black" xmlns="http://www.w3.org/2000/svg">
   <path d="M12 21s-6-4.35-9-8.28C-1 6.72 4.24 0 12 6.28 19.76 0 25 6.72 21 12.72 18 16.65 12 21 12 21z" fill="red" width = "1000" height = "1000"/>
-  <!-- Orelha Esquerda -->
-  <rect width="80" height="120" x="410" y="200" rx="120" ry="500" fill="orange" style="fill:orange;stroke:orange;stroke-width:3" />
-  <!-- Orelha Direita -->
-  <rect width="80" height="120" x="500" y="200" rx="120" ry="500" fill="orange" style="fill:orange;stroke:orange;stroke-width:3" />
-  
-  <!-- Perna Esquerda -->
-  <rect width="70" height="210" x="420" y="550" rx="50" ry="90" fill="orange " style="fill:orange;stroke:orange;stroke-width:3" />
-  <!-- Perna Direita -->
-  <rect width="70" height="210" x="500" y="550" rx="50" ry="100" fill="orange " style="fill:orange;stroke:orange;stroke-width:3" />
 
-  <!-- Pé Esquerdo -->
-  <rect width="120" height="50" x="365" y="730" rx="90" ry="50" fill="orange " style="fill:orange;stroke:orange;stroke-width:3" />
-  <rect width="90" height="55" x="350" y="725" rx="90" ry="50" fill="orange " style="fill:orange;stroke:orange;stroke-width:3" />
-
-  <!-- Pé Direito -->
-  <rect width="120" height="50" x="500" y="730" rx="90" ry="50" fill="orange " style="fill:orange;stroke:orange;stroke-width:3" />
-  <rect width="90" height="55" x="540" y="725" rx="90" ry="50" fill="orange " style="fill:orange;stroke:orange;stroke-width:3" />
-
-  <!-- Rabo -->
-  <rect width="200" height="40" x="245" y="600" rx="50" ry="100" fill="orange " style="fill:orange;stroke:orange;stroke-width:3" />
-
-  <!-- Corpo -->
-  <ellipse rx="130" ry="100" cx="500" cy="540" style="fill:orange;stroke:orange;stroke-width:3" />
-
-  <!-- Braço Esquerdo-->
-  <ellipse rx="55" ry="45" cx="365" cy="505" style="fill:orange;stroke:orange;stroke-width:3" />
-  <rect width="90" height="65" x="265" y="430" rx="90" ry="50" fill="orange " style="fill:orange;stroke:orange;stroke-width:3" />
-  <!-- Braço Direito-->
-  <ellipse rx="55" ry="45" cx="630" cy="505" style="fill:orange;stroke:orange;stroke-width:3" />
-
-  <!-- Cabeça -->
-  <ellipse rx="120" ry="100" cx="500" cy="350" style="fill:orange;stroke:orange;stroke-width:3" /> 
-
-  <!-- Pescoço -->
-  <ellipse rx="100" ry="60" cx="500" cy="440" style="fill:orange;stroke:orange;stroke-width:3" /> 
-  <!--orelha-->
-
-  
   <g transform="translate(545, 30) scale(0.7)">
     
     <rect x="400" y="500" width="300" height="150" fill="#FFF69Eff" transform = "rotate(85,550,580)" stroke-width = "3" stroke="black" />
