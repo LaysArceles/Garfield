@@ -9,33 +9,22 @@
   <rect width="70" height="65" x="650" y="710" rx="50" ry="100" fill="orange " style="fill:orange;stroke:black;stroke-width:2" transform="rotate(0 450 675)" />
 
     <!-- Pintas -->
-    <ellipse rx="12" ry="0.5" cx="700" cy="730" style="fill:black;stroke:black;stroke-width:2" />
-    <ellipse rx="12" ry="0.5" cx="705" cy="740" style="fill:black;stroke:black;stroke-width:2" />
-    <ellipse rx="12" ry="0.5" cx="708" cy="750" style="fill:black;stroke:black;stroke-width:2" />
-  
+    <ellipse rx="12" ry="0.5" cx="705" cy="730" style="fill:black;stroke:black;stroke-width:2" />
+    <ellipse rx="12" ry="0.5" cx="708" cy="740" style="fill:black;stroke:black;stroke-width:2" />
+    <ellipse rx="12" ry="0.5" cx="708" cy="750" style="fill:black;stroke:black;stroke-width:2" /> 
+
   <!-- Perna Esquerda -->
-  <rect width="55" height="190" x="425" y="580" rx="40" ry="90" fill="orange " style="fill:orange;stroke:black;stroke-width:2" transform="rotate(-20 450 675)" />
+  <rect width="55" height="190" x="405" y="580" rx="40" ry="90" fill="orange " style="fill:orange;stroke:black;stroke-width:2" transform="rotate(-12 405 580)" />
 
   <!-- Perna Direita -->
-  <rect width="60" height="190" x="500" y="580" rx="40" ry="90" fill="orange " style="fill:orange;stroke:black;stroke-width:2" transform="rotate(-10 450 675)" />
-
-  <!-- Orelha Esquerda -->
-  <rect width="80" height="120" x="615" y="250" rx="150" ry="500" fill="orange " style="fill:orange;stroke:black;stroke-width:2" transform="rotate(-30 450 675)"/>
-  <!-- Orelha Direita -->
-  <rect width="80" height="120" x="725" y="320" rx="150" ry="500" fill="orange " style="fill:orange;stroke:black;stroke-width:2" transform="rotate(-35 450 675)"/>
+  <rect width="55" height="190" x="490" y="580" rx="40" ry="90" fill="orange " style="fill:orange;stroke:black;stroke-width:2" transform="rotate(-10 490 580)" />
   
   <!-- Corpo -->
   <ellipse rx="120" ry="110" cx="480" cy="535" style="fill:orange;stroke:black;stroke-width:2" />as
 
   <!-- Pintas -->
-  <ellipse rx="20" ry="1" cx="600" cy="555" style="fill:black;stroke:black;stroke-width:2" />
-  <ellipse rx="20" ry="1" cx="598" cy="565" style="fill:black;stroke:black;stroke-width:2" />
-  <ellipse rx="20" ry="1" cx="595" cy="575" style="fill:black;stroke:black;stroke-width:2" />
+  <ellipse rx="20" ry="1" cx="600" cy="555" style="fill:black;stroke:black;stroke-width:2" transform="rotate(0 526 218)"/>
   
-  <ellipse rx="20" ry="1" cx="400" cy="555" style="fill:black;stroke:black;stroke-width:2" />
-  <ellipse rx="20" ry="1" cx="402" cy="565" style="fill:black;stroke:black;stroke-width:2" />
-  <ellipse rx="20" ry="1" cx="405" cy="575" style="fill:black;stroke:black;stroke-width:2" />
-
   <!-- Pé Esquerdo -->
   <rect width="120" height="50" x="378" y="730" rx="90" ry="50" fill="orange " style="fill:orange;stroke:orange;stroke-width:3" />
   <rect width="90" height="55" x="350" y="725" rx="90" ry="50" fill="orange " style="fill:orange;stroke:orange;stroke-width:3" />
@@ -43,7 +32,6 @@
   <!-- Pé Direito -->
   <rect width="120" height="50" x="500" y="730" rx="90" ry="50" fill="orange " style="fill:orange;stroke:orange;stroke-width:3" />
   <rect width="90" height="55" x="540" y="725" rx="90" ry="50" fill="orange " style="fill:orange;stroke:orange;stroke-width:3" />
-
 
   <!-- Braço Esquerdo-->
   <ellipse rx="45" ry="35" cx="400" cy="505" style="fill:orange;stroke:black;stroke-width:2" />
@@ -53,5 +41,35 @@
 
   <!-- Cabeça -->
   <ellipse rx="120" ry="100" cx="500" cy="350" style="fill:orange;stroke:black;stroke-width:2" /> 
+
+    <ellipse rx="14" ry="0.5" cx="615" cy="675" style="fill:black;stroke:black;stroke-width:2" transform="rotate(64 615 675)" />
+    <ellipse rx="9" ry="0.5" cx="608" cy="675" style="fill:black;stroke:black;stroke-width:2" transform="rotate(64 608 675)" />
+
+    <ellipse rx="14" ry="0.5" cx="590" cy="625" style="fill:black;stroke:black;stroke-width:2" transform="rotate(64 590 625)" />
+    <ellipse rx="9" ry="0.5" cx="582" cy="625" style="fill:black;stroke:black;stroke-width:2" transform="rotate(64 582 625)" />
+    
+  
+    <!-- Orelha Esquerda -->
+  <rect width="80" height="120" x="615" y="250" rx="150" ry="500" fill="orange " style="fill:orange;stroke:black;stroke-width:2" transform="rotate(-30 450 675)"/>
+  <rect width="60" height="120" x="383" y="225" rx="150" ry="100" fill="orange " style="fill:#D37222FF;stroke:black;stroke-width:2" transform="rotate(-29 383 225)"/>
+    <ellipse rx="15" ry="1" cx="407" cy="227" style="fill:black;stroke:black;stroke-width:2" transform="rotate(90 407 227)" />
+    <ellipse rx="17" ry="1" cx="414" cy="227" style="fill:black;stroke:black;stroke-width:2" transform="rotate(75 414 227)" />
+    <ellipse rx="17" ry="1" cx="421" cy="225" style="fill:black;stroke:black;stroke-width:2" transform="rotate(60 421 225)" />
+    <ellipse rx="15" ry="1" cx="427" cy="220" style="fill:black;stroke:black;stroke-width:2" transform="rotate(46 427 220)" />
+
+  <!-- Orelha Direita -->
+  <rect width="80" height="120" x="725" y="320" rx="150" ry="500" fill="orange " style="fill:orange;stroke:black;stroke-width:2" transform="rotate(-35 450 675)"/>
+  <rect width="60" height="120" x="475" y="222" rx="150" ry="100" fill="orange " style="fill:#D37222FF;stroke:black;stroke-width:2" transform="rotate(-29 475 222)"/>
+    <ellipse rx="15" ry="1" cx="503" cy="222" style="fill:black;stroke:black;stroke-width:2" transform="rotate(90 503 222)" />
+    <ellipse rx="17" ry="1" cx="511" cy="223" style="fill:black;stroke:black;stroke-width:2" transform="rotate(75 511 223)" />
+    <ellipse rx="17" ry="1" cx="519" cy="221" style="fill:black;stroke:black;stroke-width:2" transform="rotate(60 519 221)" />
+    <ellipse rx="15" ry="1" cx="526" cy="218" style="fill:black;stroke:black;stroke-width:2" transform="rotate(49 526 218)" />
+
+  <!-- Pescoço Mascara -->
+  <ellipse rx="83" ry="58" cx="490" cy="440" style="fill:orange;stroke:none;stroke-width:2" /> 
+
+  <!-- Cabeça Mascara -->
+  <ellipse rx="118" ry="98" cx="500" cy="350" style="fill:orange;stroke:none;stroke-width:2" /> 
+  <ellipse rx="30" ry="60" cx="572" cy="335" style="fill:orange;stroke:none;stroke-width:2" /> 
 
 </svg>
