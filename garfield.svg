@@ -1,3 +1,71 @@
-<svg width="1000" height="1000" color = "black" xmlns="http://www.w3.org/2000/svg" >
-  <circle cx="355" cy="355" r="90" stroke="black" stroke-width="2" fill="orange" />
+<svg width="1800" height="1800" color = "black" xmlns="http://www.w3.org/2000/svg" >
+
+   <rect x="400" y="500" width="300" height="150" fill="#FFF69Eff" transform = "rotate(85,550,580)" stroke="black" />
+   <!-- garganta -->
+   
+
+ <rect x="650" y="800" width="300" height="80" stroke="black"  fill="#FFF69Eff"  transform = "rotate(100,650,800)" />
+  <rect x="700" y="800" width="300" height="80" stroke="black"  fill="#FFF69Eff"  transform = "rotate(100,700,800)" />
+<!-- canela esquerda -->
+
+  <circle cx="580" cy="750" r="85" stroke-width="2" fill="#FFF69Eff"  stroke="black" />
+     <!-- barriga -->
+     <rect x="490" y="650" width="145" height="85" fill="#FFF69Eff" transform = "rotate(-1,490,650)"   />
+      <!-- barriga por dentro -->
+ <rect x="900" y="800" width="300" height="90" stroke="black"  fill="#FFF69Eff"  transform = "rotate(85,900,800)" />
+  <rect x="950" y="800" width="300" height="90" stroke="black"  fill="#FFF69Eff"  transform = "rotate(85,950,800)" />
+  <!-- canela direita -->
+
+
+
+<ellipse  rx="130" ry="60" cx="550" cy="1100" fill="#FFF69Eff" stroke="black"  transform =  "rotate(200,550,1100)" />
+ <ellipse  rx="130" ry="60" cx="890" cy="1100" fill="#FFF69Eff" stroke="black"  transform =  "rotate(200,890,1100)" />
+<!-- Os pes -->
+
+ 
+   
+    <rect x="400" y="520" width="250" height="110" transform = "rotate(85,550,580)" stroke-width="5" rx="40" ry="25px" />
+     <!-- garganta de dentro -->
+    
+   
+     <ellipse  rx="110" ry="90" cx="790" cy="690" fill="#FFF69Eff" stroke="black" transform =  "rotate(35,790,690)" />
+       
+     <!-- bunda -->
+     <ellipse  rx="70" ry="29" cx="670" cy="720" fill="#FFF69Eff" stroke="black" transform =  "rotate(-110,670,720)"  />
+     <!-- barriga parte de cima -->
+     <ellipse  rx="100" ry="50" cx="900" cy="780" fill="#FFF69Eff" stroke="black"  transform =  "rotate(85,900,780)" />
+<!-- comeco da canela direita -->
+
+  <ellipse  rx="150" ry="60" cx="780" cy="790" fill="#FFF69Eff"  transform =  "rotate(180,780,790)" />
+  
+  <circle cx="490" cy="1080" r="90" stroke-width="2" stroke="black" fill="#FFF69Eff" />
+  <circle cx="550" cy="1100" r="85" stroke-width="2"  stroke="black"  fill="#FFF69Eff" />
+  <!-- pès esquerdo -->
+
+   <circle cx="790" cy="1070" r="90" stroke-width="2" stroke="black" fill="#FFF69Eff" />
+  <circle cx="850" cy="1100" r="85" stroke-width="2"  stroke="black"  fill="#FFF69Eff" />  
+<!-- pes direito -->
+    <rect x="700" y="800" width="300" height="80"  fill="#FFF69Eff"  transform = "rotate(100,700,800)" />
+  
+  <rect x="950" y="800" width="300" height="90" fill="#FFF69Eff"  transform = "rotate(85,950,800)" />
+  <!-- canela direita -->
+   <rect x="640" y="695" width="145" height="85" fill="#FFF69Eff" transform = "rotate(-1,640,695)"   />
+      <!-- barriga por dentro -->
+
+  <ellipse  rx="45" ry="26" cx="730" cy="740" fill="black"  transform =  "rotate(110,730,740)" />
+  
+ 
+  <!-- pinta -->
+   <ellipse  rx="75" ry="58" cx="860" cy="820" fill="#FFF69Eff"  stroke="black"  transform =  "rotate(110,860,820)" />
+  
+   <rect x="830" y="1090" width="145" height="80" fill="#FFF69Eff" transform = "rotate(-1,830,1090)"   />
+      <!-- pe por dentro -->
+    <rect x="500" y="1090" width="145" height="80" fill="#FFF69Eff" transform = "rotate(-1,500,1090)"   />
+     <!-- pe por dentro -->
+      <rect x="800" y="760" width="145" height="100" fill="#FFF69Eff" transform = "rotate(-1,800,760)"   />
+     <!-- pe por dentro -->
+      <rect x="800" y="730" width="145" height="100" fill="#FFF69Eff" transform = "rotate(-1,800,730)"   />
+     <!-- pe por dentro -->
+  
+
 </svg>
